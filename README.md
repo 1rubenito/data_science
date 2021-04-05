@@ -13,4 +13,5 @@
 <br>
 <a href='https://bit.ly/3tsfWxY'>Análise de dados Airbnb da cidade de Florença - Itália <br>
 <a href='https://bit.ly/3pVs48t'>Análise de dados roubo, furto, recuperação de veículos no Rio de Janeiro <br>
-<a href='https://bit.ly/3mj40LO'>Panorama da COVID19 no Brasil - Do primeiro caso à primeira vacinação
+<a href='https://bit.ly/3mj40LO'>Panorama da COVID19 no Brasil - Do primeiro caso à primeira vacinação <br>
+<a href='https://bit.ly/3cT38dL'>Processamento de Linguagem Natural(NLP) para analisar Bruno Garfinkel 
