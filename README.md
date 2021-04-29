@@ -16,9 +16,7 @@
 <a href='https://bit.ly/3dyJ4gY'>Panorama da COVID19 no Brasil - Do primeiro caso à primeira vacinação <br>
 <a href='https://bit.ly/3cT38dL'>Processamento de Linguagem Natural(NLP) para analisar Bruno Garfinkel <br>
 <a href='https://bit.ly/2PJSrRS'>Análise de Detecção de Fraudes com Cartões de Crédito - usando método de Classificação <br>
-<br>
-<br>
-  
+
 **Machine Learning**
 <br>
 <br>
