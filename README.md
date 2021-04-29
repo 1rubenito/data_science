@@ -10,7 +10,6 @@
 
 <h1 align='center'>Portifólio de projetos em Data Science</p> <br>
 
-
 ## Análise de dados
 
 <a href='https://bit.ly/32iAZXz'>Análise de dados Airbnb da cidade de Florença - Itália <br>
