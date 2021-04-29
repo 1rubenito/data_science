@@ -8,16 +8,17 @@
 * [Medium](https://medium.com/@gianfaldoni)
 
 
-# Portifólio de projetos em Data Science
+<h1 align='center'>Portifólio de projetos em Data Science</p> <br>
+
 
 ## Análise de dados
 
 <a href='https://bit.ly/32iAZXz'>Análise de dados Airbnb da cidade de Florença - Itália <br>
 <a href='https://bit.ly/3pVs48t'>Análise de dados roubo, furto, recuperação de veículos no Rio de Janeiro <br>
 <a href='https://bit.ly/3dyJ4gY'>Panorama da COVID19 no Brasil - Do primeiro caso à primeira vacinação <br>
-<a href='https://bit.ly/3cT38dL'>Processamento de Linguagem Natural(NLP) para analisar Bruno Garfinkel <br>
 <a href='https://bit.ly/2PJSrRS'>Análise de Detecção de Fraudes com Cartões de Crédito - usando método de Classificação <br>
 
 ## Machine Learning
 
-<a href='https://bit.ly/3gNOyqq'>Análise Big 5 Personality - Método não-supervisionado usando KMeans / Yellowbrick
+<a href='https://bit.ly/3gNOyqq'>Análise Big 5 Personality - Método não-supervisionado usando KMeans / Yellowbrick <br>
+<a href='https://bit.ly/3cT38dL'>Processamento de Linguagem Natural(NLP) para analisar Bruno Garfinkel <br>
