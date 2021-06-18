@@ -25,4 +25,5 @@
 
   
 ## Power BI
-<a href='https://bit.ly/3whTysd'>Análise de Dados de E-Commerce com Power BI e Google Analytics <br>
+<a href='https://github.com/1rubenito/powerbi_analysis/tree/mini2'>Análise de Dados de E-Commerce com Power BI e Google Analytics <br>
+<a href='https://github.com/1rubenito/powerbi_analysis/tree/main'>Construindo Scripts no R e aplicando Power BI <br>
