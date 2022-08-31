@@ -19,7 +19,6 @@
 ## Machine Learning
 
 <a href='https://bit.ly/3gNOyqq'>Análise Big 5 Personality - Método não-supervisionado usando KMeans / Yellowbrick <br>
-<a href='https://bit.ly/3cT38dL'>Processamento de Linguagem Natural(NLP) para analisar Bruno Garfinkel <br>
 <a href='https://bit.ly/3cb0pvC'>Machine Learning para Churn Prediction <br>
 <a href='https://bit.ly/3g7fLST'>Análise de detecção de fraudes em cartões de crédito usando modelos de classificação <br>
 <a href='https://github.com/1rubenito/data_science/blob/main/Mini-Projeto4.R'>Prevendo inadimplência em Cartões de Crédito com R <br> 
